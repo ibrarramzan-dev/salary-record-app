@@ -1,0 +1,13 @@
+#info-bar-container-container {
+  border: 1px solid black;
+  border-radius: 4px;
+  margin-bottom: 5px;
+  padding: 4px;
+}
+#info-bar-container-data-title {
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+  color: blue;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
